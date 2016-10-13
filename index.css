@@ -152,18 +152,18 @@ a:focus{
 .button{
   position: absolute;
   top:430px;
-  left:120px;
+  left:220px;
 }
 
 .left{
   position: absolute;
   top: 320px;
-  left: 260px;
+  left: 50px;
 }
 .right{
   position: absolute;
   top: 320px;
-  left: 900px;
+  left: 700px;
 }
 .skinny{
   position: absolute;
@@ -184,25 +184,25 @@ a:focus{
   font-weight: bolder;
   font-family: 'Oswald', sans-serif;
   top: 680px;
-  left: 450px;
+  left: 350px;
 }
 .sale{
   position: absolute;
   color:#222222;
   top: 710px;
-  left: 360px;
+  left: 260px;
   font-size: 1.4rem;
 }
 .garment{
   position: absolute;
   color: #9b9b9b;
   top: 750px;
-  left: 400px;
+  left: 300px;
   font-size: 0.8rem;
 }
 .men{
   top:600px;
-  left: 830px;
+  left: 730px;
 }
 .featured{
   position: absolute;
@@ -255,15 +255,15 @@ a:focus{
   width: 160px;
   position: absolute;
   top:740px;
-  left: 750px;
+  left: 650px;
   text-align: center;
 }
 .acc{
   top: 700px;
-  left: 1030px;
+  left: 930px;
 }
 .hat{
-  left:1000px;
+  left:900px;
   bottom: 100px;
 }
 .content-box{
